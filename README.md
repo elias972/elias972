@@ -112,7 +112,7 @@ I'm currently in my final year at the **École des Mines de Saint-Étienne (EMSE
 ## 📫 How to Reach Me
 
 - 📱 **Phone**: +33 6 35 64 52 27
-- 📧 **Email**: [elias.ibrahim@etu.emse.fr](mailto:elias.ibrahim@etu.emse.fr)
+- 📧 **Email**: [elias.ibrahim972@gmail.com](mailto:elias.ibrahim972@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/elias-ibrahim](https://www.linkedin.com/in/elias-ibrahim-79406b1b8/)
 - 📍 **Location**: 13120 Gardanne, France
 - 
