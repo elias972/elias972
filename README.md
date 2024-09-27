@@ -2,7 +2,7 @@
 
 ## 🎓 Student Engineer in Computer Science, Mobility, and Security
 
-I'm currently in my final year at the **École des Mines de Saint-Étienne (EMSE)**, specializing in Computer Science, Mobility, and Security. I'm passionate about Data Science , Artificial Intelligence and Computer Vision, and I'm seeking a final-year internship in these fields.
+I'm currently in my final year at the **École des Mines de Saint-Étienne (EMSE)**, specializing in Computer Science, Mobility, and Security. I'm passionate about Data Science, Artificial Intelligence, and Computer Vision, and I'm seeking a final-year internship in these fields.
 
 ---
 
@@ -55,17 +55,23 @@ I'm currently in my final year at the **École des Mines de Saint-Étienne (EMSE
 
 ### Tools & Technologies
 
-- Git, Kali Linux, Ubuntu
+- Git, GitHub, Kali Linux, Ubuntu
 - TensorFlow, PyTorch, Keras, OpenCV
 - Pandas, Scikit-learn, NumPy
 - YOLOv7, Hyperparameter Tuning, Regularization
 
-### Languages
+### Tools I Use
 
-- **French**: Advanced
-- **Arabic**: Native
-- **English**: Advanced (TOEIC Score: 945/990)
-- **Spanish**: Beginner
+- ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+- ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
+
+### Currently Learning
+
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+- ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+- ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 
 ---
 
@@ -109,4 +115,12 @@ I'm currently in my final year at the **École des Mines de Saint-Étienne (EMSE
 - 📧 **Email**: [elias.ibrahim@etu.emse.fr](mailto:elias.ibrahim@etu.emse.fr)
 - 💼 **LinkedIn**: [linkedin.com/in/elias-ibrahim](https://www.linkedin.com/in/elias-ibrahim-79406b1b8/)
 - 📍 **Location**: 13120 Gardanne, France
+- 
+---
 
+## 🌐 Find Me Online
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-ibrahim-79406b1b8/)
+- [![X](https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/Eliasibra23)
+
+---
