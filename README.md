@@ -2,7 +2,7 @@
 
 ## 🎓 Student Engineer in Computer Science, Mobility, and Security
 
-I'm currently in my final year at the **École des Mines de Saint-Étienne (EMSE)**, specializing in Computer Science, Mobility, and Security. I'm passionate about Artificial Intelligence and Computer Vision, and I'm seeking a final-year internship in these fields.
+I'm currently in my final year at the **École des Mines de Saint-Étienne (EMSE)**, specializing in Computer Science, Mobility, and Security. I'm passionate about Data Science , Artificial Intelligence and Computer Vision, and I'm seeking a final-year internship in these fields.
 
 ---
 
@@ -17,7 +17,6 @@ I'm currently in my final year at the **École des Mines de Saint-Étienne (EMSE
 - **Front-End Development Intern at GlobalisticTech Offshore**  
   *November 2022 - February 2023*  
   *Dbayeh, Lebanon*  
-  - Implemented AI to personalize user interfaces based on user behavior.
   - Developed ReactJS components integrating AI tools to enhance user experience.
   - Collaborated with developers and designers to maintain a web application.
 
@@ -46,16 +45,13 @@ I'm currently in my final year at the **École des Mines de Saint-Étienne (EMSE
 - **Minesweeper Game Development in Java**  
   Developed a full Minesweeper game with graphical interface, level management, dynamic score display, and restart functionality.
 
-- **STM32 Robot Project**  
-  Implemented an automatic parking algorithm for a robot using the STM32 board and its development environment (STM32CubeIDE).
-
 ---
 
 ## 🌟 Skills
 
 ### Programming Languages
 
-- Java, C++, C, Python, Verilog, SQL, ReactJS, MATLAB
+- Java, C++, C#, Python, Verilog, SQL, ReactJS, MATLAB
 
 ### Tools & Technologies
 
